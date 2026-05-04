@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Eid Special Sale — 20% Off All Vaccines",
+    "subtitle": "Limited time offer for all poultry farmers across Pakistan",
+    "buttonText": "Shop Vaccines",
+    "buttonLink": "/vaccines",
+    "image": "",
+    "isActive": true,
+    "displayOrder": 1,
+    "startDate": { "$date": "2024-03-01T00:00:00.000Z" },
+    "endDate": { "$date": "2024-04-30T00:00:00.000Z" }
+  },
+  {
+    "title": "New Stock Arrived — Marek's Disease Vaccine",
+    "subtitle": "Fresh batch available now. Order before stock runs out!",
+    "buttonText": "Order Now",
+    "buttonLink": "/vaccines",
+    "image": "",
+    "isActive": true,
+    "displayOrder": 2,
+    "startDate": { "$date": "2024-01-01T00:00:00.000Z" },
+    "endDate": { "$date": "2024-12-31T00:00:00.000Z" }
+  },
+  {
+    "title": "Free Delivery on Orders Above Rs. 2000",
+    "subtitle": "Shop more and save on delivery charges!",
+    "buttonText": "Shop Now",
+    "buttonLink": "/medicines",
+    "image": "",
+    "isActive": false,
+    "displayOrder": 3,
+    "startDate": { "$date": "2024-01-01T00:00:00.000Z" },
+    "endDate": { "$date": "2024-02-28T00:00:00.000Z" }
+  }
+]

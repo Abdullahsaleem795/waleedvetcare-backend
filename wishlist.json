@@ -1,0 +1,40 @@
+[
+  {
+    "customerName": "Ahmed Raza",
+    "customerEmail": "ahmed@test.com",
+    "products": [
+      {
+        "productName": "Marek's Disease Vaccine",
+        "price": 1100
+      },
+      {
+        "productName": "Gumboro IBD Vaccine",
+        "price": 920
+      }
+    ]
+  },
+  {
+    "customerName": "Bilal Khan",
+    "customerEmail": "bilal@test.com",
+    "products": [
+      {
+        "productName": "Enrofloxacin 10%",
+        "price": 720
+      }
+    ]
+  },
+  {
+    "customerName": "Zara Malik",
+    "customerEmail": "zara@test.com",
+    "products": [
+      {
+        "productName": "Liver Tonic Plus",
+        "price": 450
+      },
+      {
+        "productName": "Amino Acid Complex",
+        "price": 520
+      }
+    ]
+  }
+]

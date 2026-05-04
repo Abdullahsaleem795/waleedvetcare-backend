@@ -1,0 +1,50 @@
+[
+  {
+    "type": "stock_in",
+    "quantity": 150,
+    "note": "Initial stock — Tylosin 100mg first batch received",
+    "date": { "$date": "2024-01-01T00:00:00.000Z" }
+  },
+  {
+    "type": "stock_in",
+    "quantity": 80,
+    "note": "Initial stock — Newcastle Vaccine first batch received",
+    "date": { "$date": "2024-01-02T00:00:00.000Z" }
+  },
+  {
+    "type": "stock_in",
+    "quantity": 200,
+    "note": "Initial stock — Multivitamin B-Complex received",
+    "date": { "$date": "2024-01-03T00:00:00.000Z" }
+  },
+  {
+    "type": "stock_out",
+    "quantity": 2,
+    "note": "Order WVC-1001 — Ahmed Raza",
+    "date": { "$date": "2024-01-05T00:00:00.000Z" }
+  },
+  {
+    "type": "stock_out",
+    "quantity": 3,
+    "note": "Order WVC-1002 — Bilal Khan",
+    "date": { "$date": "2024-01-06T00:00:00.000Z" }
+  },
+  {
+    "type": "stock_in",
+    "quantity": 50,
+    "note": "Restock — Newcastle Vaccine new batch",
+    "date": { "$date": "2024-01-10T00:00:00.000Z" }
+  },
+  {
+    "type": "stock_out",
+    "quantity": 2,
+    "note": "Order WVC-1003 — Zara Malik",
+    "date": { "$date": "2024-01-12T00:00:00.000Z" }
+  },
+  {
+    "type": "stock_in",
+    "quantity": 100,
+    "note": "New batch — Doxycycline 10% received from supplier",
+    "date": { "$date": "2024-01-15T00:00:00.000Z" }
+  }
+]

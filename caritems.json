@@ -1,0 +1,33 @@
+[
+  {
+    "customerName": "Ahmed Raza",
+    "customerEmail": "ahmed@test.com",
+    "items": [
+      {
+        "productName": "Tylosin 100mg Tablets",
+        "price": 850,
+        "quantity": 2
+      },
+      {
+        "productName": "Multivitamin B-Complex",
+        "price": 620,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 2320,
+    "updatedAt": { "$date": "2024-01-01T00:00:00.000Z" }
+  },
+  {
+    "customerName": "Usman Tariq",
+    "customerEmail": "usman@test.com",
+    "items": [
+      {
+        "productName": "Newcastle Disease Vaccine",
+        "price": 750,
+        "quantity": 3
+      }
+    ],
+    "subtotal": 2250,
+    "updatedAt": { "$date": "2024-01-01T00:00:00.000Z" }
+  }
+]

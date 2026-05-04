@@ -1,0 +1,27 @@
+[
+  {
+    "type": "new_order",
+    "message": "New order received: WVC-1001 from Ahmed Raza — Rs. 1,850",
+    "isRead": true
+  },
+  {
+    "type": "new_order",
+    "message": "New order received: WVC-1002 from Bilal Khan — Rs. 2,400",
+    "isRead": true
+  },
+  {
+    "type": "low_stock",
+    "message": "Low stock alert: Marek's Disease Vaccine — only 45 units left",
+    "isRead": false
+  },
+  {
+    "type": "new_contact",
+    "message": "New contact query from Farhan Ali — Medicine availability",
+    "isRead": false
+  },
+  {
+    "type": "new_review",
+    "message": "New review from Sana Butt on Enrofloxacin 10% — pending approval",
+    "isRead": false
+  }
+]

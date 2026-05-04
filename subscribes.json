@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Farhan Ali",
+    "email": "farhan@test.com",
+    "phone": "03061234567",
+    "isActive": true,
+    "subscribedAt": { "$date": "2024-01-15T00:00:00.000Z" }
+  },
+  {
+    "name": "Hassan Mirza",
+    "email": "hassan@test.com",
+    "phone": "03071234567",
+    "isActive": true,
+    "subscribedAt": { "$date": "2024-02-10T00:00:00.000Z" }
+  },
+  {
+    "name": "Amna Sheikh",
+    "email": "amna@test.com",
+    "phone": "03081234567",
+    "isActive": true,
+    "subscribedAt": { "$date": "2024-02-20T00:00:00.000Z" }
+  },
+  {
+    "name": "Kamran Iqbal",
+    "email": "kamran@test.com",
+    "phone": "03091234567",
+    "isActive": false,
+    "subscribedAt": { "$date": "2024-03-05T00:00:00.000Z" }
+  }
+]

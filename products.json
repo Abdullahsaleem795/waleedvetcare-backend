@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Tylosin 100mg Tablets",
+    "category": "medicine",
+    "price": 850,
+    "description": "Broad-spectrum macrolide antibiotic for CRD treatment in broilers and layers.",
+    "benefits": "Rapid absorption, improves FCR, reduces mortality rate.",
+    "usage": "1g per 2 liters water for 5 days.",
+    "image": "",
+    "stock": 150,
+    "isAvailable": true
+  },
+  {
+    "name": "Doxycycline 10% Solution",
+    "category": "medicine",
+    "price": 550,
+    "description": "Tetracycline antibiotic for respiratory and enteric infections in poultry.",
+    "benefits": "Broad spectrum, easy water administration, fast action.",
+    "usage": "1ml per liter of drinking water for 3-5 days.",
+    "image": "",
+    "stock": 120,
+    "isAvailable": true
+  },
+  {
+    "name": "Amprolium 20% Solution",
+    "category": "medicine",
+    "price": 480,
+    "description": "Effective coccidiostat for prevention and treatment of coccidiosis.",
+    "benefits": "Fast acting, safe for all ages, prevents bloody diarrhea.",
+    "usage": "2ml per liter of drinking water for 5-7 days.",
+    "image": "",
+    "stock": 90,
+    "isAvailable": true
+  },
+  {
+    "name": "Enrofloxacin 10%",
+    "category": "medicine",
+    "price": 720,
+    "description": "Fluoroquinolone antibiotic for severe bacterial infections in poultry.",
+    "benefits": "Highly effective against E.coli, Salmonella, Mycoplasma.",
+    "usage": "0.5ml per liter of drinking water for 3-5 days.",
+    "image": "",
+    "stock": 80,
+    "isAvailable": true
+  },
+  {
+    "name": "Colistin Sulfate 10%",
+    "category": "medicine",
+    "price": 420,
+    "description": "Antibiotic for gram-negative bacterial infections and NE treatment.",
+    "benefits": "Effective against E.coli and Salmonella, improves gut health.",
+    "usage": "1g per 2 liters water for 3-5 days.",
+    "image": "",
+    "stock": 110,
+    "isAvailable": true
+  },
+  {
+    "name": "Newcastle Disease Vaccine La Sota",
+    "category": "vaccine",
+    "price": 750,
+    "description": "Live attenuated La Sota strain vaccine for Newcastle Disease prevention.",
+    "benefits": "Long-lasting immunity, easy water administration.",
+    "usage": "1 dose per bird via drinking water at day 7 and day 21.",
+    "image": "",
+    "stock": 80,
+    "isAvailable": true
+  },
+  {
+    "name": "Gumboro IBD Vaccine",
+    "category": "vaccine",
+    "price": 920,
+    "description": "Live vaccine for Infectious Bursal Disease prevention in broilers.",
+    "benefits": "Strong mucosal immunity, safe for young chicks.",
+    "usage": "1 dose per bird at day 14 via drinking water.",
+    "image": "",
+    "stock": 65,
+    "isAvailable": true
+  },
+  {
+    "name": "Marek's Disease Vaccine",
+    "category": "vaccine",
+    "price": 1100,
+    "description": "HVT strain vaccine preventing tumor formation from Marek's Disease.",
+    "benefits": "Lifetime protection, prevents economic losses.",
+    "usage": "Administer subcutaneously at day 1 of age.",
+    "image": "",
+    "stock": 45,
+    "isAvailable": true
+  },
+  {
+    "name": "Infectious Bronchitis Vaccine",
+    "category": "vaccine",
+    "price": 680,
+    "description": "Live attenuated IB vaccine for respiratory protection in layers.",
+    "benefits": "Protects egg production, prevents respiratory losses.",
+    "usage": "Eye drop or spray method at day 1 and day 14.",
+    "image": "",
+    "stock": 55,
+    "isAvailable": true
+  },
+  {
+    "name": "Fowl Pox Vaccine",
+    "category": "vaccine",
+    "price": 580,
+    "description": "Live vaccine for prevention of Fowl Pox disease in layers and broilers.",
+    "benefits": "Single dose lifetime protection, easy wing web application.",
+    "usage": "Wing web stab method at 6-8 weeks of age.",
+    "image": "",
+    "stock": 70,
+    "isAvailable": true
+  },
+  {
+    "name": "Multivitamin B-Complex Liquid",
+    "category": "supplement",
+    "price": 620,
+    "description": "Complete vitamin and mineral supplement to boost immunity and growth.",
+    "benefits": "Improves FCR, boosts immunity, reduces stress.",
+    "usage": "1ml per liter of drinking water daily for 7 days.",
+    "image": "",
+    "stock": 200,
+    "isAvailable": true
+  },
+  {
+    "name": "Calcium + Vitamin D3",
+    "category": "supplement",
+    "price": 380,
+    "description": "Essential calcium supplement for strong eggshell and bone development.",
+    "benefits": "Improves eggshell quality, prevents cage fatigue.",
+    "usage": "2ml per liter of drinking water during laying period.",
+    "image": "",
+    "stock": 180,
+    "isAvailable": true
+  },
+  {
+    "name": "Liver Tonic Plus",
+    "category": "supplement",
+    "price": 450,
+    "description": "Herbal liver tonic for better feed metabolism and toxin removal.",
+    "benefits": "Improves liver function, better weight gain, detoxification.",
+    "usage": "1ml per liter water for 5 days every month.",
+    "image": "",
+    "stock": 160,
+    "isAvailable": true
+  },
+  {
+    "name": "Amino Acid Complex",
+    "category": "supplement",
+    "price": 520,
+    "description": "Essential amino acids for muscle development and egg production.",
+    "benefits": "Better weight gain, improved egg production, reduces mortality.",
+    "usage": "1g per 2 liters water for 7 days.",
+    "image": "",
+    "stock": 140,
+    "isAvailable": true
+  },
+  {
+    "name": "Poultry Disinfectant Spray",
+    "category": "care",
+    "price": 350,
+    "description": "Broad spectrum disinfectant for poultry house sanitization.",
+    "benefits": "Kills 99.9% bacteria and viruses, safe for birds.",
+    "usage": "Dilute 1:100 with water and spray on surfaces.",
+    "image": "",
+    "stock": 300,
+    "isAvailable": true
+  }
+]

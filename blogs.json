@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Newcastle Disease se Apne Murghiyon ko Kaise Bachayein",
+    "slug": "newcastle-disease-prevention",
+    "content": "Newcastle Disease poultry farming ki sabse badi problems mein se ek hai. Is article mein hum aapko complete prevention guide denge. Regular vaccination schedule follow karein aur biosecurity measures implement karein.",
+    "author": "Waleed VetCare Team",
+    "category": "disease-prevention",
+    "image": "",
+    "tags": ["newcastle", "vaccine", "prevention", "broiler"],
+    "isPublished": true,
+    "views": 245
+  },
+  {
+    "title": "Broiler Feed Conversion Ratio Improve Karne ke 5 Tarike",
+    "slug": "improve-broiler-fcr",
+    "content": "Feed Conversion Ratio (FCR) poultry farming mein profitability ka sabse bada factor hai. Sahi vitamins, minerals aur antibiotics ka use karke aap FCR significantly improve kar sakte hain.",
+    "author": "Waleed VetCare Team",
+    "category": "farming-tips",
+    "image": "",
+    "tags": ["fcr", "broiler", "supplement", "profitability"],
+    "isPublished": true,
+    "views": 189
+  },
+  {
+    "title": "Gumboro Disease — Symptoms, Prevention aur Treatment",
+    "slug": "gumboro-disease-guide",
+    "content": "Gumboro ya Infectious Bursal Disease (IBD) young chicks mein immune system ko affect karta hai. Timely vaccination aur proper biosecurity se is disease ko prevent kiya ja sakta hai.",
+    "author": "Waleed VetCare Team",
+    "category": "disease-prevention",
+    "image": "",
+    "tags": ["gumboro", "ibd", "vaccine", "chicks"],
+    "isPublished": true,
+    "views": 312
+  },
+  {
+    "title": "Poultry Farm Biosecurity — Complete Guide",
+    "slug": "poultry-biosecurity-guide",
+    "content": "Biosecurity poultry farming ka sabse important aspect hai. Proper disinfection, visitor control aur hygiene practices se diseases ko farm mein enter hone se roka ja sakta hai.",
+    "author": "Waleed VetCare Team",
+    "category": "farm-management",
+    "image": "",
+    "tags": ["biosecurity", "disinfection", "hygiene", "farm"],
+    "isPublished": false,
+    "views": 0
+  }
+]

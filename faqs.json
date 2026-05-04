@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Kya aap poore Pakistan mein deliver karte hain?",
+    "answer": "Haan! Hum TCS aur Leopards Courier ke zariye poore Pakistan mein deliver karte hain. 2-3 working days mein delivery hoti hai.",
+    "category": "delivery",
+    "displayOrder": 1,
+    "isActive": true
+  },
+  {
+    "question": "Cash on Delivery available hai?",
+    "answer": "Haan, hum Cash on Delivery, Bank Transfer, EasyPaisa aur JazzCash accept karte hain.",
+    "category": "payment",
+    "displayOrder": 2,
+    "isActive": true
+  },
+  {
+    "question": "Kya sab medicines authentic hain?",
+    "answer": "Bilkul! Hamare sab products certified manufacturers se directly source kiye jaate hain. 100% authentic guarantee.",
+    "category": "products",
+    "displayOrder": 3,
+    "isActive": true
+  },
+  {
+    "question": "Return policy kya hai?",
+    "answer": "Agar product damaged ya wrong deliver hua ho toh 3 din ke andar return request kar sakte hain.",
+    "category": "returns",
+    "displayOrder": 4,
+    "isActive": true
+  },
+  {
+    "question": "Bulk order par discount milta hai?",
+    "answer": "Haan! 5000 rupees se upar ke orders par special discount available hai. Contact karein.",
+    "category": "discount",
+    "displayOrder": 5,
+    "isActive": true
+  },
+  {
+    "question": "Vaccines ki cold chain maintain hoti hai?",
+    "answer": "Haan, sab vaccines cold chain maintained packaging mein deliver ki jaati hain taake efficacy barqarar rahe.",
+    "category": "products",
+    "displayOrder": 6,
+    "isActive": true
+  }
+]

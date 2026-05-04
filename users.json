@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Ahmed Raza",
+    "email": "ahmed@test.com",
+    "password": "test123",
+    "phone": "03011234567",
+    "address": "House 5, Block B, Sahiwal"
+  },
+  {
+    "name": "Bilal Khan",
+    "email": "bilal@test.com",
+    "password": "test123",
+    "phone": "03021234567",
+    "address": "Street 3, Model Town, Lahore"
+  },
+  {
+    "name": "Zara Malik",
+    "email": "zara@test.com",
+    "password": "test123",
+    "phone": "03031234567",
+    "address": "House 12, Gulberg, Faisalabad"
+  },
+  {
+    "name": "Usman Tariq",
+    "email": "usman@test.com",
+    "password": "test123",
+    "phone": "03041234567",
+    "address": "Near Grain Market, Okara"
+  },
+  {
+    "name": "Sana Butt",
+    "email": "sana@test.com",
+    "password": "test123",
+    "phone": "03051234567",
+    "address": "House 7, Street 2, Multan"
+  }
+]

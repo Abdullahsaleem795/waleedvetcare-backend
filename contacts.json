@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Farhan Ali",
+    "email": "farhan@test.com",
+    "phone": "03061234567",
+    "subject": "Medicine availability query",
+    "message": "Kya Gumboro vaccine available hai? Price aur delivery time batayein Karachi ke liye.",
+    "isReplied": false
+  },
+  {
+    "name": "Hassan Mirza",
+    "email": "hassan@test.com",
+    "phone": "03071234567",
+    "subject": "Bulk order discount",
+    "message": "Mujhe 500 broilers ke liye medicines chahiye. Bulk order par koi discount milega?",
+    "isReplied": true
+  },
+  {
+    "name": "Amna Sheikh",
+    "email": "amna@test.com",
+    "phone": "03081234567",
+    "subject": "Delivery issue",
+    "message": "Mera order WVC-1003 abhi tak nahi aaya. Please check karein.",
+    "isReplied": true
+  }
+]

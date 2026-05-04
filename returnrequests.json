@@ -1,0 +1,35 @@
+[
+  {
+    "invoiceNumber": "WVC-1001",
+    "customerName": "Ahmed Raza",
+    "customerPhone": "03011234567",
+    "productName": "Tylosin 100mg Tablets",
+    "quantity": 1,
+    "reason": "Product packaging was damaged on arrival",
+    "status": "approved",
+    "refundAmount": 850,
+    "adminNote": "Refund processed via EasyPaisa"
+  },
+  {
+    "invoiceNumber": "WVC-1003",
+    "customerName": "Zara Malik",
+    "customerPhone": "03031234567",
+    "productName": "Multivitamin B-Complex",
+    "quantity": 1,
+    "reason": "Wrong product delivered",
+    "status": "pending",
+    "refundAmount": 620,
+    "adminNote": ""
+  },
+  {
+    "invoiceNumber": "WVC-1005",
+    "customerName": "Sana Butt",
+    "customerPhone": "03051234567",
+    "productName": "Enrofloxacin 10%",
+    "quantity": 1,
+    "reason": "Product expired before delivery date",
+    "status": "rejected",
+    "refundAmount": 0,
+    "adminNote": "Product expiry date was valid, return rejected"
+  }
+]

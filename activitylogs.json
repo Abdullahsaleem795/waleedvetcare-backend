@@ -1,0 +1,44 @@
+[
+  {
+    "actorType": "admin",
+    "actorName": "Waleed",
+    "action": "product_added",
+    "description": "Added new product: Tylosin 100mg Tablets — Rs. 850",
+    "ipAddress": "192.168.1.1"
+  },
+  {
+    "actorType": "admin",
+    "actorName": "Waleed",
+    "action": "order_status_updated",
+    "description": "Order WVC-1001 status changed from pending to delivered",
+    "ipAddress": "192.168.1.1"
+  },
+  {
+    "actorType": "customer",
+    "actorName": "Ahmed Raza",
+    "action": "order_placed",
+    "description": "New order placed: WVC-1001 — Rs. 1,850",
+    "ipAddress": "192.168.1.5"
+  },
+  {
+    "actorType": "admin",
+    "actorName": "Waleed",
+    "action": "product_deleted",
+    "description": "Deleted product: Old Colistin Stock",
+    "ipAddress": "192.168.1.1"
+  },
+  {
+    "actorType": "customer",
+    "actorName": "Bilal Khan",
+    "action": "order_placed",
+    "description": "New order placed: WVC-1002 — Rs. 2,400",
+    "ipAddress": "192.168.1.8"
+  },
+  {
+    "actorType": "admin",
+    "actorName": "Waleed",
+    "action": "inventory_updated",
+    "description": "Stock updated: Newcastle Vaccine — 50 units added",
+    "ipAddress": "192.168.1.1"
+  }
+]

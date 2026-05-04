@@ -1,0 +1,46 @@
+[
+  {
+    "customerName": "Ahmed Raza",
+    "customerEmail": "ahmed@test.com",
+    "label": "Home",
+    "fullAddress": "House 5, Block B, Model Town",
+    "city": "Sahiwal",
+    "province": "Punjab",
+    "postalCode": "57000",
+    "phone": "03011234567",
+    "isDefault": true
+  },
+  {
+    "customerName": "Ahmed Raza",
+    "customerEmail": "ahmed@test.com",
+    "label": "Farm",
+    "fullAddress": "Chak 45, Near Main Canal",
+    "city": "Sahiwal",
+    "province": "Punjab",
+    "postalCode": "57010",
+    "phone": "03011234567",
+    "isDefault": false
+  },
+  {
+    "customerName": "Bilal Khan",
+    "customerEmail": "bilal@test.com",
+    "label": "Home",
+    "fullAddress": "Street 3, Model Town",
+    "city": "Lahore",
+    "province": "Punjab",
+    "postalCode": "54000",
+    "phone": "03021234567",
+    "isDefault": true
+  },
+  {
+    "customerName": "Zara Malik",
+    "customerEmail": "zara@test.com",
+    "label": "Home",
+    "fullAddress": "House 12, Gulberg Block C",
+    "city": "Faisalabad",
+    "province": "Punjab",
+    "postalCode": "38000",
+    "phone": "03031234567",
+    "isDefault": true
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Pfizer Animal Health Pakistan",
+    "contactPerson": "Mr. Saleem Ahmed",
+    "phone": "03001234567",
+    "email": "pfizer@supplier.pk",
+    "address": "Lahore, Punjab, Pakistan",
+    "productsSupplied": ["Tylosin", "Doxycycline"],
+    "isActive": true
+  },
+  {
+    "name": "MSD Animal Health",
+    "contactPerson": "Mr. Tariq Hassan",
+    "phone": "03101234567",
+    "email": "msd@supplier.pk",
+    "address": "Karachi, Sindh, Pakistan",
+    "productsSupplied": ["Newcastle Vaccine", "Gumboro Vaccine"],
+    "isActive": true
+  },
+  {
+    "name": "Hipra Pakistan",
+    "contactPerson": "Ms. Ayesha Khan",
+    "phone": "03201234567",
+    "email": "hipra@supplier.pk",
+    "address": "Islamabad, Pakistan",
+    "productsSupplied": ["IBD Vaccine", "IB Vaccine"],
+    "isActive": true
+  }
+]

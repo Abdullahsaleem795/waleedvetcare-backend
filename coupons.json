@@ -1,0 +1,26 @@
+[
+  {
+    "code": "WALEED10",
+    "discountPercent": 10,
+    "maxUses": 100,
+    "usedCount": 12,
+    "isActive": true,
+    "expiryDate": { "$date": "2025-12-31T00:00:00.000Z" }
+  },
+  {
+    "code": "WALEED20",
+    "discountPercent": 20,
+    "maxUses": 50,
+    "usedCount": 5,
+    "isActive": true,
+    "expiryDate": { "$date": "2025-06-30T00:00:00.000Z" }
+  },
+  {
+    "code": "EID2024",
+    "discountPercent": 15,
+    "maxUses": 200,
+    "usedCount": 87,
+    "isActive": false,
+    "expiryDate": { "$date": "2024-04-15T00:00:00.000Z" }
+  }
+]

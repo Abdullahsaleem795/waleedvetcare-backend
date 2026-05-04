@@ -1,0 +1,52 @@
+[
+  {
+    "invoiceNumber": "WVC-1001",
+    "customerName": "Ahmed Raza",
+    "customerPhone": "03011234567",
+    "amount": 1850,
+    "method": "cod",
+    "status": "completed",
+    "transactionId": "",
+    "notes": "Cash collected on delivery"
+  },
+  {
+    "invoiceNumber": "WVC-1002",
+    "customerName": "Bilal Khan",
+    "customerPhone": "03021234567",
+    "amount": 2400,
+    "method": "easypaisa",
+    "status": "completed",
+    "transactionId": "EP-789456123",
+    "notes": "EasyPaisa payment received"
+  },
+  {
+    "invoiceNumber": "WVC-1003",
+    "customerName": "Zara Malik",
+    "customerPhone": "03031234567",
+    "amount": 1770,
+    "method": "jazzcash",
+    "status": "completed",
+    "transactionId": "JC-456123789",
+    "notes": "JazzCash payment received"
+  },
+  {
+    "invoiceNumber": "WVC-1004",
+    "customerName": "Usman Tariq",
+    "customerPhone": "03041234567",
+    "amount": 1990,
+    "method": "bank",
+    "status": "pending",
+    "transactionId": "",
+    "notes": "Waiting for bank transfer confirmation"
+  },
+  {
+    "invoiceNumber": "WVC-1005",
+    "customerName": "Sana Butt",
+    "customerPhone": "03051234567",
+    "amount": 870,
+    "method": "cod",
+    "status": "pending",
+    "transactionId": "",
+    "notes": "COD order pending delivery"
+  }
+]

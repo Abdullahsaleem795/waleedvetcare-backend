@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Pfizer",
+    "slug": "pfizer",
+    "description": "World leading animal health company",
+    "country": "USA",
+    "isActive": true
+  },
+  {
+    "name": "MSD Animal Health",
+    "slug": "msd",
+    "description": "Global leader in poultry vaccines",
+    "country": "USA",
+    "isActive": true
+  },
+  {
+    "name": "Hipra",
+    "slug": "hipra",
+    "description": "European veterinary pharmaceutical company",
+    "country": "Spain",
+    "isActive": true
+  },
+  {
+    "name": "Ceva",
+    "slug": "ceva",
+    "description": "French animal health company",
+    "country": "France",
+    "isActive": true
+  }
+]

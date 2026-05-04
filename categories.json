@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Medicine",
+    "slug": "medicine",
+    "description": "Antibiotics, antiparasitics, antifungals and other therapeutic medicines",
+    "icon": "💊",
+    "isActive": true,
+    "displayOrder": 1
+  },
+  {
+    "name": "Vaccine",
+    "slug": "vaccine",
+    "description": "Newcastle, Gumboro, Marek's, IBD and other poultry vaccines",
+    "icon": "💉",
+    "isActive": true,
+    "displayOrder": 2
+  },
+  {
+    "name": "Supplement",
+    "slug": "supplement",
+    "description": "Vitamins, minerals, amino acids and growth boosters",
+    "icon": "🧪",
+    "isActive": true,
+    "displayOrder": 3
+  },
+  {
+    "name": "Care",
+    "slug": "care",
+    "description": "Disinfectants, sanitizers and poultry care products",
+    "icon": "🐔",
+    "isActive": true,
+    "displayOrder": 4
+  }
+]

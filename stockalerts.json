@@ -1,0 +1,26 @@
+[
+  {
+    "productName": "Newcastle Disease Vaccine La Sota",
+    "currentStock": 7,
+    "minimumStock": 10,
+    "alertType": "low_stock",
+    "isResolved": false,
+    "notifiedAt": { "$date": "2024-01-15T00:00:00.000Z" }
+  },
+  {
+    "productName": "Marek's Disease Vaccine",
+    "currentStock": 45,
+    "minimumStock": 50,
+    "alertType": "low_stock",
+    "isResolved": false,
+    "notifiedAt": { "$date": "2024-01-16T00:00:00.000Z" }
+  },
+  {
+    "productName": "Gumboro IBD Vaccine",
+    "currentStock": 65,
+    "minimumStock": 30,
+    "alertType": "sufficient_stock",
+    "isResolved": true,
+    "notifiedAt": { "$date": "2024-01-10T00:00:00.000Z" }
+  }
+]

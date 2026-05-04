@@ -1,0 +1,42 @@
+[
+  {
+    "customerName": "Ahmed Raza",
+    "customerEmail": "ahmed@test.com",
+    "productName": "Tylosin 100mg Tablets",
+    "rating": 5,
+    "comment": "Bohot acha product hai, mere broilers ki CRD problem bilkul theek ho gayi!",
+    "isApproved": true
+  },
+  {
+    "customerName": "Bilal Khan",
+    "customerEmail": "bilal@test.com",
+    "productName": "Newcastle Disease Vaccine",
+    "rating": 5,
+    "comment": "Authentic vaccine hai, fast delivery bhi mili. Highly recommended!",
+    "isApproved": true
+  },
+  {
+    "customerName": "Zara Malik",
+    "customerEmail": "zara@test.com",
+    "productName": "Multivitamin B-Complex",
+    "rating": 4,
+    "comment": "Acha product hai, murghiyon ki health improve hui hai.",
+    "isApproved": true
+  },
+  {
+    "customerName": "Usman Tariq",
+    "customerEmail": "usman@test.com",
+    "productName": "Gumboro IBD Vaccine",
+    "rating": 5,
+    "comment": "Best vaccine supplier in Pakistan. Will order again!",
+    "isApproved": true
+  },
+  {
+    "customerName": "Sana Butt",
+    "customerEmail": "sana@test.com",
+    "productName": "Enrofloxacin 10%",
+    "rating": 4,
+    "comment": "Good quality medicine, fast action. Packaging bhi acha tha.",
+    "isApproved": false
+  }
+]
