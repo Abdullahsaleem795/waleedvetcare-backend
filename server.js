@@ -32,7 +32,7 @@ app.use('/api/inventory',  require('./routes/inventoryRoutes'));
 
 // New Admin & Category Routes
 app.use('/api/admin',      require('./routes/adminRoutes'));
-app.use('/api/categories', require('./routes/categoryRoutes'));
+app.use('/api/categories', require('./routes/CategoryRoutes'));
 
 // 6. Root Route
 app.get('/', (req, res) => {
