@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: waleedvetcare-backend
+    env: node
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: MONGO_URI
+        value: mongodb+srv://abdullahsaleem107112_db_user:abdullah123@cluster0.8yh4bne.mongodb.net/waleedvetcare?appName=Cluster0
+      - key: JWT_SECRET
+        value: waleedvetcare_super_secret_key_2024
+      - key: ADMIN_SECRET
+        value: admin_waleedvetcare_2024
+      - key: NODE_ENV
+        value: production
