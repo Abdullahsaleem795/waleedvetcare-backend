@@ -1,7 +1,7 @@
 const asyncHandler = require('express-async-handler');
 const Admin = require('../models/Admin');
-const Order = require('../models/Order'); // Naya add kiya
-const Product = require('../models/Product'); // Naya add kiya
+const Order = require('../models/Order');
+const Product = require('../models/Product');
 const jwt = require('jsonwebtoken');
 
 // Helper function to generate token
@@ -29,20 +29,31 @@ exports.loginAdmin = asyncHandler(async (req, res) => {
 
 // REAL-TIME DASHBOARD LOGIC
 exports.getDashboardStats = asyncHandler(async (req, res) => {
-    // 1. Total Orders (Jo database mein waqai hain)
+    // 1. Total Orders
     const totalOrders = await Order.countDocuments();
 
-    // 2. Today's Orders (Aaj ki date ke orders)
+    // 2. Today's Orders
     const startOfToday = new Date();
     startOfToday.setHours(0, 0, 0, 0);
     const todayOrders = await Order.countDocuments({ 
         createdAt: { $gte: startOfToday } 
     });
 
-    // 3. Total Revenue (Sirf tab count hoga jab order 'delivered' ho)
+    // 3. Total Revenue (all statuses except cancelled)
     const revenueStats = await Order.aggregate([
-        { $match: { status: 'delivered' } }, 
-        { $group: { _id: null, totalSales: { $sum: "$totalAmount" } } }
+        { 
+            $match: { 
+                status: { 
+                    $nin: ['cancelled', 'Cancelled', 'canceled', 'Canceled'] 
+                } 
+            } 
+        },
+        { 
+            $group: { 
+                _id: null, 
+                totalSales: { $sum: "$totalAmount" } 
+            } 
+        }
     ]);
     const totalSales = revenueStats.length > 0 ? revenueStats[0].totalSales : 0;
 
