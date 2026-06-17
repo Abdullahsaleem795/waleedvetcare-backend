@@ -19,8 +19,12 @@ app.use(cors());
 app.use(express.json());
 
 // 4. Create Uploads folder if not exists
-if (!fs.existsSync('./uploads')) {
-    fs.mkdirSync('./uploads');
+try {
+    if (!fs.existsSync('./uploads')) {
+        fs.mkdirSync('./uploads');
+    }
+} catch (err) {
+    console.warn("⚠️ Uploads folder creation skipped (read-only filesystem):", err.message);
 }
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 
